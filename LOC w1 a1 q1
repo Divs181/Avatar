@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main()
+{
+int a;
+char b[30],c[30],d[40],e[40];
+printf("Name:\n");
+gets(b);
+printf("Regd no:\n");
+gets(c);
+printf("Branch:\n");
+gets(d);
+printf("hobbies:\n");
+gets (e);
+return 0;
+}
